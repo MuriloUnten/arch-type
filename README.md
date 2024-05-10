@@ -1,3 +1,3 @@
 # arch-type
 
-The Arch user (btw) typing test cli tool built in Go.
+The Arch user's (btw) typing test cli tool.
